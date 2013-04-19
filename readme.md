@@ -1,4 +1,4 @@
-Using Memcached with Java on Windows
+Installing Memcached server on Windows
 
 Windows Memcached software is available on this page inside 
 memcached-server-for-window/ folder.
